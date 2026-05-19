@@ -9,8 +9,6 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#403F3F",
-        secondary: "#D72050",
         accent: "#706F6F",
       },
     },
@@ -23,11 +21,12 @@ export default {
           "primary": "#403F3F",
           "secondary": "#D72050",
           "accent": "#706F6F",
-          "base-200": "#f3f3f3",
-          "base-300": "#e7e7e7",
+          "neutral": "#3d4451",
+          "base-100": "#ffffff",
+          "base-200": "#F3F3F3",
+          "base-300": "#E7E7E7",
         },
       },
     ],
-    darkTheme: "light",
   },
 }

@@ -12,9 +12,10 @@
   "dependencies": {
     "@dxkit-org/react-marquee": "^1.0.0",
     "date-fns": "^4.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
     "react-fast-marquee": "^1.6.5",
+    "react-icons": "^5.6.0",
     "react-marquee-slider": "^1.1.5",
     "react-router": "^7.14.2"
   },

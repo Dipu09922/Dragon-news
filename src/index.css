@@ -13,3 +13,7 @@
 :root {
   color-scheme: light !important;
 }
+
+a.active {
+  @apply bg-base-300;
+}
