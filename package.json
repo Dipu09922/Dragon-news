@@ -12,6 +12,7 @@
   "dependencies": {
     "@dxkit-org/react-marquee": "^1.0.0",
     "date-fns": "^4.1.0",
+    "firebase": "^12.13.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-fast-marquee": "^1.6.5",
